@@ -1,0 +1,1 @@
+Per the data provided we can see that there players between the ages of 20-24 make the most purchases, that males make of the most players making purchases, and there are only 576 different screen names, but 780 purchases meaning multiple players made mulitple purchases during the time frame of the data. 
